@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RomanovichEN.Sprint0.Task0.V0", "Tyuiu.RomanovichEN.Sprint0.Task0.V0\Tyuiu.RomanovichEN.Sprint0.Task0.V0.csproj", "{486CC307-6CD1-4211-A732-308C52E9641C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{3BF940F9-834E-4837-BBC3-1B3570AE6313}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RomanovichEN.Sprint0.Task1.V0", "Tyuiu.RomanovichEN.Sprint0.Task1.V0\Tyuiu.RomanovichEN.Sprint0.Task1.V0.csproj", "{5C8B51C5-6426-4F7A-941E-322EFA1A854F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{486CC307-6CD1-4211-A732-308C52E9641C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{486CC307-6CD1-4211-A732-308C52E9641C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{486CC307-6CD1-4211-A732-308C52E9641C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8B51C5-6426-4F7A-941E-322EFA1A854F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8B51C5-6426-4F7A-941E-322EFA1A854F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8B51C5-6426-4F7A-941E-322EFA1A854F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8B51C5-6426-4F7A-941E-322EFA1A854F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{486CC307-6CD1-4211-A732-308C52E9641C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{5C8B51C5-6426-4F7A-941E-322EFA1A854F} = {3BF940F9-834E-4837-BBC3-1B3570AE6313}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C207855E-4116-443A-8759-B567B9B5E695}
